@@ -1,0 +1,30 @@
+/* Stylesheet.css */
+
+/* Style definition 1 */
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333; /* Font color */
+    margin: 20px;
+}
+
+/* Style definition 2 */
+h1, h2 {
+    color: #FF5733; /* Font color for headings */
+}
+
+/* Style definition 3 */
+#main-content {
+    background-color: #f9f9f9; /* Background color */
+    padding: 20px;
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Box shadow */
+    margin-bottom: 20px;
+}
+
+/* Style definition 4 */
+.image-container {
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Additional styles or modifications can be added as needed */
